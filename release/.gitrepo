@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/pmalacho-mit/wsfs_svelte_suede
 	branch = release
-	commit = 0c432cd3ea72d2bf389c289a8f59f756cc0aad3a
-	parent = 136ff004d8df87a35cec1dd214a0b0a6873ff59c
+	commit = 660b7f3c60f7816b394878cc8c1047efb6c2c072
+	parent = b22a32456d66ea31c22a12365ddaaf6ff7a7af01
 	method = merge
 	cmdver = 0.4.9
